@@ -1,0 +1,1 @@
+EnhancedEditor is a Java text editor with standard file operations and advanced features like cut, copy, paste, find, and replace. Users can personalize text and background colors, ensuring an intuitive interface with a menu bar. This project serves as a foundation for file manipulation with enhanced user experience features.
